@@ -140,7 +140,7 @@ This homelab project demonstrates how SMB vulnerabilities can be exploited to ac
 - Demonstrated an SMB-to-RCE attack path in a homelab.
 - Covered enumeration, credential testing, and remote execution steps.
 - Highlighted risks of weak authentication and poor configurations.
-- Emphasized system hardening and monitoring for defense.
+- Emphasized system hardening and monitoring for defense. 
 
 
 ![Impacket by Forta](images/impacket-by-forta.png)
